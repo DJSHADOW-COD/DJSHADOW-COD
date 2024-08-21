@@ -14,6 +14,7 @@
         <div class="flower__leaf flower__leaf--2"></div>
         <div class="flower__leaf flower__leaf--3"></div>
         <div class="flower__leaf flower__leaf--4"></div>
+         <div class="flower__leaf flower__leaf--5"></div>
         <div class="flower__white-circle"></div>
 
         <div class="flower__light flower__light--1"></div>
@@ -42,7 +43,7 @@
         <div class="flower__leaf flower__leaf--2"></div>
         <div class="flower__leaf flower__leaf--3"></div>
         <div class="flower__leaf flower__leaf--4"></div>
-        <div class="flower__white-circle"></div>
+        <div class="flower__white-circle"> </div>
 
         <div class="flower__light flower__light--1"></div>
         <div class="flower__light flower__light--2"></div>
@@ -107,7 +108,7 @@
         <div class="flower__grass__leaf flower__grass__leaf--6"></div>
         <div class="flower__grass__leaf flower__grass__leaf--7"></div>
         <div class="flower__grass__leaf flower__grass__leaf--8"></div>
-        <div class="flower__grass__overlay"></div>
+        <div class="flower__grass__overlay  "></div>
       </div>
     </div>
 
@@ -127,13 +128,13 @@
       </div>
     </div>
 
-    <div class="grow-ans" style="--d:2.4s">
+    <div class="grow-ans" style="--d:5.6s">
       <div class="flower__g-right flower__g-right--1">
         <div class="leaf"></div>
       </div>
     </div>
 
-    <div class="grow-ans" style="--d:2.8s">
+    <div class="grow-ans" style="--d:5.10s">
       <div class="flower__g-right flower__g-right--2">
         <div class="leaf"></div>
       </div>
@@ -152,20 +153,7 @@
         </div>
         <div class="flower__g-front__leaf-wrapper flower__g-front__leaf-wrapper--4">
           <div class="flower__g-front__leaf"></div>
-        </div>
-        <div class="flower__g-front__leaf-wrapper flower__g-front__leaf-wrapper--5">
-          <div class="flower__g-front__leaf"></div>
-        </div>
-        <div class="flower__g-front__leaf-wrapper flower__g-front__leaf-wrapper--6">
-          <div class="flower__g-front__leaf"></div>
-        </div>
-        <div class="flower__g-front__leaf-wrapper flower__g-front__leaf-wrapper--7">
-          <div class="flower__g-front__leaf"></div>
-        </div>
-        <div class="flower__g-front__leaf-wrapper flower__g-front__leaf-wrapper--8">
-          <div class="flower__g-front__leaf"></div>
-        </div>
-        <div class="flower__g-front__line"></div>
+       
       </div>
     </div>
 
@@ -258,21 +246,7 @@
       </div>
     </div>
 
-    <div class="long-g long-g--5">
-      <div class="grow-ans" style="--d:4s">
-        <div class="leaf leaf--0"></div>
-      </div>
-      <div class="grow-ans" style="--d:4.2s">
-        <div class="leaf leaf--1"></div>
-      </div>
-      <div class="grow-ans" style="--d:3s">
-        <div class="leaf leaf--2"></div>
-      </div>
-      <div class="grow-ans" style="--d:3.6s">
-        <div class="leaf leaf--3"></div>
-      </div>
-    </div>
-
+   
     <div class="long-g long-g--6">
       <div class="grow-ans" style="--d:4.2s">
         <div class="leaf leaf--0"></div>
